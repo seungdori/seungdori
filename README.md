@@ -43,16 +43,4 @@ domains:
 </td></tr>
 </table>
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/seungdori/seungdori/master/metrics-isocalendar.svg" width="70%" />
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seungdori/seungdori/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seungdori/seungdori/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/seungdori/seungdori/output/github-snake-dark.svg" />
-</picture>
-
 </div>
