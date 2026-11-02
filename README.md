@@ -57,6 +57,7 @@ The catalog behind the MCP server, published as a production React site in Engli
 
 ## Engineering Principles
 
+- **I own the architecture.** I design and review the structure of every project myself, and I personally check every pull request before it merges.
 - **Deterministic by default.** A tool that checks something gives the same answer for the same input. Model calls belong to the agent, not to the verifier.
 - **Evidence over claims.** Missing evidence is reported as `NOT_VERIFIED`, never as `PASS`, and data carries its source and age.
 - **Finished means someone else can use it.** One-command install, versioned schemas, CI gates, and documentation good enough that the project doesn't need me to explain it.
